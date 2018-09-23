@@ -1,0 +1,43 @@
+{
+	"origin": [
+		"What if #Animals# and #musicians# went to #place# together?",
+		"Tragic accident involving #Animals# killing #musicians# while visiting #place#",
+		"Once upon a time, a young #musicians# dreamed of killing and consuming #Animals#. It was a major issue that people feared in places such as #place#"
+	],
+	"Animals": [
+		"dragons",
+		"dogs",
+		"snakes",
+		"cats",
+		"birds",
+		"hippos",
+		"walrus",
+		"dinosaurs",
+		"polar bears"
+	],
+	"musicians": [
+		"Miles Davis",
+		"Frank Sinatra",
+		"Duke Ellington",
+		"Charlie Parker",
+		"Charles Mingus",
+		"Benny Goodman",
+		"Louis Armstrong",
+		"Count Basie",
+		"Thelonious Monk",
+		"Art Tatum"
+	],
+	"place": [
+		"Paris",
+		"Disney",
+		"Rome",
+		"Tahiti",
+		"London",
+		"South Island",
+		"Antartica",
+		"",
+		"Florida",
+		"meow meow land",
+		"no where land"
+	]
+}
